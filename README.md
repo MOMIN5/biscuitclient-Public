@@ -1,5 +1,5 @@
 # Biscuit Public
-![Download Counter](https://img.shields.io/github/downloads/MOMIN5/biscuitclient-Public/latest/total.svg?style=success)       
+![Download Counter](https://img.shields.io/github/downloads/MOMIN5/biscuitclient-Public/latest/total.svg?style=for-the-badge&logo=appveyor)       
      
 The latest version, this version got leaked apparently so i decided to release this. This one is safe, dont run any "leaked" jar and then cry about getting ratted    
 
