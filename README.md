@@ -1,5 +1,7 @@
 # Biscuit Public
-The latest version, this version got leaked apparently so i decided to release this. This one is safe, dont run any "leaked" jar and then cry about getting ratted   
+![Download Counter](https://img.shields.io/github/downloads/MOMIN5/biscuitclient-Public/latest/total.svg?style=success)       
+     
+The latest version, this version got leaked apparently so i decided to release this. This one is safe, dont run any "leaked" jar and then cry about getting ratted    
 
 Heres the GUI: 
 
